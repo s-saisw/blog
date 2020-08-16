@@ -1,0 +1,20 @@
+[
+  {
+    "path": "posts/2020-08-16-microdata-application/",
+    "title": "Thai Microdata Application",
+    "description": "In this post I share my personal experience applying for microdata from the National Statistics Office, Thailand.",
+    "author": [
+      {
+        "name": "Saisawat Samutpradit",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-16",
+    "categories": [
+      "Personal experience"
+    ],
+    "preview": {},
+    "last_modified": "2020-08-16T13:08:29+09:00",
+    "input_file": {}
+  }
+]

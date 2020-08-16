@@ -1,0 +1,22 @@
+name: "saisw-blog"
+title: "Saisawat's Blog"
+description: |
+  This is where I keep my spontaneous writings and personal projects.
+base_url: https://s-saisw.github.io/blog/
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - icon: fa-bars
+      menu:
+        - text: "Personal website"
+          href: https://s-saisw.github.io/
+        - text: "R Tutorial"
+          href: https://s-saisw.github.io/myRblog/
+output: distill::distill_article
+collections:
+  posts:
+    disqus: saisw-blog
+    share: [twitter, linkedin, facebook]
+    citations: false
+    custom: _custom.html
